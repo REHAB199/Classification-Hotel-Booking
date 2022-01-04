@@ -1,5 +1,8 @@
 # Classification-Hotel-Booking
 
+![image](https://user-images.githubusercontent.com/93076431/148075110-a50b7396-671a-45ca-8fec-2b0bb7f55bfe.png)
+
+
 # Description:
 This project about Hotel Booking dataset to do EDA and predict the booking that were canceled or not using Classification algorithms.
 This dataset contains observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived.
