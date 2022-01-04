@@ -36,7 +36,5 @@ About target column (is canceled) have two classes:
 * Numpy and Pandas for data manipulation.
 * Scikit-learn for modeling.
 * Matplotlib and Seaborn for plotting.
-* Tableau for interactive visualizations.
-* Sklearn for linear regression.
 * Xgboost.
 
