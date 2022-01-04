@@ -1,6 +1,6 @@
 # Classification-Hotel-Booking
 
-![image](https://user-images.githubusercontent.com/93076431/148075110-a50b7396-671a-45ca-8fec-2b0bb7f55bfe.png)
+![image](https://user-images.githubusercontent.com/93076431/148075234-b149e1ff-3124-4820-9bad-539f73cca693.png)
 
 
 # Description:
